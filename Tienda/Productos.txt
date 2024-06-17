@@ -1,0 +1,15 @@
+Productos en categoría frutas
+- Manzana
+Cantidad de productos en frutas:1
+
+Productos en categoría bebidas
+- Gaseosa
+- Jugo
+Cantidad de productos en bebidas:2
+
+Productos en categoría electronica
+- Laptop
+- Celular
+Cantidad de productos en electronica:2
+
+La cantidad de productos en el inventario son: 5
