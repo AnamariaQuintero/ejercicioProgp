@@ -29,7 +29,7 @@ public class Tienda {
         inventario.agregarProductos(producto4);
         
         inventario.cambiarPrecio("Laptop", 6.999);
-        inventario.cambiarPrecio("gaseosa", 6.999);
+        inventario.cambiarPrecio("gaseosa", 3.999);
         
         inventario.productosCategoria();
         
