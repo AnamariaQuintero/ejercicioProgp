@@ -1,0 +1,16 @@
+Nombre: Harry Poter
+ID: 1
+Autor: J. K. Rowling
+
+Nombre: A traves de mi venta
+ID: 2
+Autor: J. K. Rowling
+
+Nombre: Culpa mia
+ID: 3
+Autor: J. K. Rowling
+
+Nombre: Harry
+ID: 4
+Autor: J. K. Rowling
+
