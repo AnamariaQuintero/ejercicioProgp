@@ -1,0 +1,3 @@
+Ventas: 
+Nombre producto: Acetaminofen
+Cantidad vendida: 20
